@@ -6,4 +6,4 @@ Simple jQuery plugin to force the redrawing of elements programmatically. Useful
 
 Usage
 =====
-  $sel.forceRedraw();
+    $sel.forceRedraw();
